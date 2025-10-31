@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+:root {
+  font-family: "Winky Rough",system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #86BBD8;
+  color:black;
+
+}
+
